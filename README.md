@@ -2,8 +2,8 @@
 
 Programmers:
 
-Daniel Haynes \m
-Raimund Kod \m
+Daniel Haynes \n
+Raimund Kod \n
 Kamil Wasiak
 
 Designers:
