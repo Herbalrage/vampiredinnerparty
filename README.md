@@ -1,15 +1,15 @@
 # vampiredinnerparty
 
-Programmers:
+**Programmers:**
 
-Daniel Haynes /n
-Raimund Kod \n
-Kamil Wasiak
+-Daniel Haynes
+-Raimund Kod
+-Kamil Wasiak
 
-Designers:
+**Designers:**
 
-Tim Hogan
-Matias Castillo-Bastias
-Niall Crabtree
-Joshua Prasser
-Harry Lai
+-Tim Hogan
+-Matias Castillo-Bastias
+-Niall Crabtree
+-Joshua Prasser
+-Harry Lai
