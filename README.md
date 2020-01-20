@@ -2,7 +2,7 @@
 
 Programmers:
 
-Daniel Haynes \n
+Daniel Haynes /n
 Raimund Kod \n
 Kamil Wasiak
 
